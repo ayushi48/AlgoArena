@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    @apply font-sans antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-sans tracking-tight;
+  }
+
+  code, pre {
+    @apply font-mono;
+  }
+}
