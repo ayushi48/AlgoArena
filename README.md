@@ -1,4 +1,4 @@
-# 🧠 AlgoArena — Online Coding Platform
+# 🧠 AlgoLeague — Online Coding Platform
 
 ## 📌 Project Overview
 AlgoLeague is a full-stack online coding platform that allows users to solve programming problems, submit solutions, and view submission results in real time. The platform supports multiple programming languages and provides a smooth, secure coding experience with both user and admin roles.
